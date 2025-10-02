@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c145a80f-1c2f-49c3-810d-ebc057bbc447" name="Changes" comment="Beginning of a new project">
-      <change afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/goods.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/goods.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/practices.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/practices.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +65,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_interpreter_path": "C:/Users/vbvbg/AppData/Roaming/JetBrains/WebStorm2025.2/node/versions/22.20.0/node",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -89,7 +91,11 @@
       <option name="presentableId" value="Default" />
       <updated>1758781618426</updated>
       <workItem from="1758781618942" duration="622000" />
-      <workItem from="1758782898920" duration="7508000" />
+      <workItem from="1758782898920" duration="7809000" />
+      <workItem from="1758809262211" duration="882000" />
+      <workItem from="1758812143031" duration="1644000" />
+      <workItem from="1759305606885" duration="42000" />
+      <workItem from="1759386373281" duration="6387000" />
     </task>
     <task id="LOCAL-00001" summary="Beginning of a new project">
       <option name="closed" value="true" />
