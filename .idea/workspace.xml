@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c145a80f-1c2f-49c3-810d-ebc057bbc447" name="Changes" comment="Beginning of a new project" />
+    <list default="true" id="c145a80f-1c2f-49c3-810d-ebc057bbc447" name="Changes" comment="Beginning of a new project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/practices.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/practices.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +90,7 @@
       <workItem from="1758809262211" duration="882000" />
       <workItem from="1758812143031" duration="1644000" />
       <workItem from="1759305606885" duration="42000" />
-      <workItem from="1759386373281" duration="7137000" />
+      <workItem from="1759386373281" duration="7962000" />
     </task>
     <task id="LOCAL-00001" summary="Beginning of a new project">
       <option name="closed" value="true" />
